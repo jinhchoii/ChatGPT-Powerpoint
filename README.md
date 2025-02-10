@@ -2,7 +2,6 @@
 
 PowerPoint slides generator using ChatGPT
 
-챗GPT를 활용한 파워포인트 슬라이드 생성기
 
 ## Examples
 
